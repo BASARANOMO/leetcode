@@ -4,3 +4,6 @@
 [submodule "leetcode-python"]
 	path = leetcode-python
 	url = https://github.com/BASARANOMO/leetcode-python
+[submodule "leetcode-golang"]
+	path = leetcode-golang
+	url = https://github.com/BASARANOMO/leetcode-golang

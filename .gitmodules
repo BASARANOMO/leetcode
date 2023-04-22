@@ -1,0 +1,6 @@
+[submodule "leetcode-cpp"]
+	path = leetcode-cpp
+	url = https://github.com/BASARANOMO/leetcode-cpp
+[submodule "leetcode-python"]
+	path = leetcode-python
+	url = https://github.com/BASARANOMO/leetcode-python
